@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 人之处于世也，如逆水行舟，不进则退 # ex. I m Chuan
+title: 逆水行舟，不进则退 # ex. I m Chuan
 name: 随风而行 # ex. DONGChuan
 email: abao63050@126.com
 location: Hebei, China # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
+# company: MyCompany
+# company_url: my_company_website
 github_url: https://github.com/winsoar # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
 description: 这是我的博客，不定期发布编程相关文章
